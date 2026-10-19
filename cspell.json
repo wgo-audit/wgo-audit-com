@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "language": "en,en-GB",
+  "ignorePaths": [
+    "content/**/*.fr.md",
+    "content-brand/**/*.fr.md",
+    "data/**/*.fr.yml",
+    "i18n/fr.*",
+    "node_modules/**",
+    "public/**"
+  ],
+  "ignoreRegExpList": ["/<[^>]+>/g", "/https?:\\/\\/[^\\s)]+/g"],
+  "words": [
+    "Benoît",
+    "CCPA",
+    "Dicaire",
+    "dictionnaire",
+    "jeunes",
+    "lastmod",
+    "linguistique",
+    "logiciel",
+    "OQLF",
+    "pousses",
+    "terminologique",
+    "TERMIUM",
+    "UMAMI",
+    "Umami",
+    "WCAG",
+    "wordmark"
+  ]
+}
