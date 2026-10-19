@@ -1,4 +1,4 @@
-baseURL: "https://wgo-audit.com/"
+baseURL: "https://WGO-Audit.com/"
 title: "WGO"
 
 # Pinned to 0.160.1 in build.sh. Uses css.PostCSS (Tailwind v4).

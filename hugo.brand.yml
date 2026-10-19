@@ -7,7 +7,7 @@
 #
 # EN-first by design. FR is a content-only add later (add fr under languages,
 # flip defaultContentLanguageInSubdir if desired, and translate content-brand/).
-baseURL: "https://brand.wgo-audit.com/"
+baseURL: "https://brand.WGO-Audit.com/"
 title: "WGO Brand"
 
 min_version: "0.158.0"
