@@ -16,7 +16,7 @@ sections:
       - entity: { label: "GitHub", url: "https://github.com/" }
         purpose: "Hébergement du code et déploiement automatisé"
         purpose-items:
-          - { label: "Gestion de versions", url: "https://github.com/wgo-audit/website" }
+          - { label: "Gestion de versions", url: "https://github.com/wgo-audit/wgo-audit-com" }
           - { label: "Cloudflare Workers Builds (CI/CD)", url: "https://developers.cloudflare.com/workers/ci-cd/" }
         data:
           - "Métadonnées de commit Git"

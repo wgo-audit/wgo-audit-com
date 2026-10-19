@@ -16,7 +16,7 @@ sections:
       - entity: { label: "GitHub", url: "https://github.com/" }
         purpose: "Source hosting and automated deployment"
         purpose-items:
-          - { label: "Version control", url: "https://github.com/wgo-audit/website" }
+          - { label: "Version control", url: "https://github.com/wgo-audit/wgo-audit-com" }
           - { label: "Cloudflare Workers Builds (CI/CD)", url: "https://developers.cloudflare.com/workers/ci-cd/" }
         data:
           - "Git commit metadata"

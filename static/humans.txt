@@ -7,7 +7,7 @@ Location: Montreal, Quebec, Canada
 Name: Whats.Going.On. (WGO)
 Description: Open-source, evidence-led audits for startups and SMBs. Runs locally on Codex or Claude.
 Source: https://github.com/wgo-audit/code
-Website source: https://github.com/wgo-audit/website
+Website source: https://github.com/wgo-audit/wgo-audit-com
 License: MIT
 
 /* SITE */
