@@ -5,7 +5,7 @@
 #            too. main.css stays the single source of truth for the live site.
 #   en/fr  : all display copy for the showcase components, so EN and FR sit
 #            side by side and stay in step. Page titles/descriptions/intros live
-#            in brand-content/*.md instead (front matter + body), per language.
+#            in content-brand/*.md instead (front matter + body), per language.
 #
 # French is Canadian/Quebec French with straight apostrophes, matching the main
 # site's data/home.fr.yml. Product name (WGO / Whats.Going.On.), reviewer IDs,

@@ -2,17 +2,17 @@
 #
 # A deliberately small, Red Hat / Primer-style brand hub: an overview plus four
 # focused standards pages (Logo, Colour, Typography, Voice). Built as a separate
-# Hugo site from brand-content/, deployed into the shared asset bucket under
+# Hugo site from content-brand/, deployed into the shared asset bucket under
 # /brand, and routed there by the Worker (see src/worker.mjs + wrangler.toml).
 #
 # EN-first by design. FR is a content-only add later (add fr under languages,
-# flip defaultContentLanguageInSubdir if desired, and translate brand-content/).
+# flip defaultContentLanguageInSubdir if desired, and translate content-brand/).
 baseURL: "https://brand.wgo-audit.com/"
 title: "WGO Brand"
 
 min_version: "0.158.0"
 
-contentDir: "brand-content"
+contentDir: "content-brand"
 enableRobotsTXT: true
 enableGitInfo: true
 defaultContentLanguage: en
